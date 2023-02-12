@@ -1,0 +1,14 @@
+ul{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+li {
+    cursor: pointer;
+}
+
+button{
+    margin-left: -10px;
+    background-color: aquamarine;
+}
